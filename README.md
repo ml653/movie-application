@@ -12,5 +12,5 @@ npm run client-install
 # Run the client & server with concurrently
 npm run dev
 
-# Acces page on http://localhost:3000
+# Access page on http://localhost:3000
 ```
